@@ -1,0 +1,36 @@
+---
+title: "Projects"
+---
+
+This page highlights some of the projects I worked on in ecology, sustainability, and environmental data science.
+
+------------------------------------------------------------------------
+
+## Namibia StoryMap User Guide
+
+For my sustainability capstone project, I worked on a StoryMap user guide for an interactive biodiversity platform in Namibia. This project was developed in collaboration with the Colorado Natural Heritage Program (CNHP) and the University of Namibia.
+
+My role focused on explaining how users can navigate the interactive map, use tools such as measuring distance and area, turn layers on and off, and understand biodiversity indicators.
+
+-   [CNHP](https://cnhp.colostate.edu)
+-   [StoryMap Collection](https://arcg.is/09bemG2)
+
+------------------------------------------------------------------------
+
+## Carbon Emissions and Energy Use During COVID-19
+
+In this project, I analyzed changes in greenhouse gas emissions in the top five emitting countries (China, United States, India, Russia, and Japan) from 2015 to 2022.
+
+I used statistical methods such as ANOVA and regression, along with machine learning models like random forest. The results showed that emissions dropped during COVID-19 but rebounded afterward, and gas emissions were a strong predictor.
+
+[Project Website](https://yazeed-aljohani.github.io/ESS330-FinalProject/)
+
+------------------------------------------------------------------------
+
+## Wolverine Habitat Suitability Analysis
+
+This project focused on identifying suitable habitats for wolverines in Clear Creek County, Colorado using GIS analysis. I used elevation, snowpack, and distance from roads to model habitat suitability.
+
+The results showed that suitable habitats are mostly located in high-elevation areas with low human disturbance.
+
+[StoryMap](https://storymaps.arcgis.com/stories/6472e7a1d28745bc9ea17856055f67ab)
