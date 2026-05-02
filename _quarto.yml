@@ -7,7 +7,7 @@ website:
       - href: projects.qmd
         text: Projects
       - href: publications.qmd
-        text: Research
+        text: Publications
 
 format:
   html:
