@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Yazeed Aljohani"
@@ -7,12 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About Me
       - href: projects.qmd
         text: Projects
-      - href: coding-example.qmd
-        text: R Coding Example
 
 format:
   html:
