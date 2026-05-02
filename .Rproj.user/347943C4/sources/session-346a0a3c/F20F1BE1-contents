@@ -1,15 +1,13 @@
-project:
-  type: website
-  output-dir: docs
-
 website:
-  title: "Yazeed Aljohani"
+  title: "Yazeed Aljohani Prrtfolio"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: projects.qmd
         text: Projects
+      - href: publications.qmd
+        text: Research
 
 format:
   html:
