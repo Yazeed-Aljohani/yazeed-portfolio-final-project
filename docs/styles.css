@@ -1,1 +1,37 @@
-/* css styles */
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1, h2, h3 {
+  color: #1b4332;
+}
+
+.navbar {
+  background-color: #1b4332 !important;
+}
+
+.navbar a {
+  color: white !important;
+  font-weight: 500;
+}
+
+.navbar a:hover {
+  color: #95d5b2 !important;
+}
+
+.callout-note {
+  border-left: 5px solid #2d6a4f;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.container {
+  max-width: 900px;
+}

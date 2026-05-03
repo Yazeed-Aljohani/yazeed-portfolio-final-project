@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Welcome to my portfolio website. I am an ecosystem scientist currently pursuing a Professional Science Master’s in Ecosystem Science and Sustainability at Colorado State University, with a focus on carbon management.\nMy background combines sustainability research, environmental data analysis, and geospatial science. I am especially interested in understanding carbon emissions, climate change, and how data can support better environmental decisions.\n\n\n\n\nI work at the intersection of ecology, data science, and sustainability. My experience includes:\n\nEnvironmental data analysis using R\n\nGeospatial analysis and mapping using ArcGIS Pro\n\nStatistical analysis and basic machine learning\n\nQualitative research and coding using MaxQDA\n\nScience communication in sustainability and climate topics\n\nWorking in both English and Arabic\n\n\n\n\n\n\nConducted research on public perceptions of bat research facilities.\nContributing researcher and co-author at KAUST on a chapter on the evolution of the UNFCCC and global carbon governance\n\nDeveloped a StoryMap user guide for Namibia’s environmental tracking platform in collaboration with CNHP and the University of Namibia,\n\nWorked on projects analyzing carbon emissions and environmental data using statistical and machine learning methods.\n\n\n\n\n\nSome of the projects included in this portfolio:\n\nNamibia StoryMap User Guide\n\nCarbon Emissions Analysis During COVID-19\n\nWolverine Habitat Suitability GIS Model\n\nYou can explore more details in the Projects section.\n\n\n\n\nI am interested in working in carbon management and sustainability, especially in roles that combine environmental science, data analysis, and policy. My goal is to contribute to solutions that reduce emissions and support sustainable systems."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -14,39 +7,11 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
     "section": "",
-    "text": "This page highlights some of the projects I worked on in ecology, sustainability, and environmental data science."
-  },
-  {
-    "objectID": "projects.html#my-projects",
-    "href": "projects.html#my-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "This page highlights some of the projects I worked on in ecology, sustainability, and environmental data science."
-  },
-  {
-    "objectID": "projects.html#namibia-storymap-user-guide",
-    "href": "projects.html#namibia-storymap-user-guide",
-    "title": "Projects",
-    "section": "Namibia StoryMap User Guide",
-    "text": "Namibia StoryMap User Guide\nFor my sustainability capstone project, I worked on a StoryMap user guide for an interactive biodiversity platform in Namibia. This project was developed in collaboration with the Colorado Natural Heritage Program (CNHP) and the University of Namibia.\nMy role focused on explaining how users can navigate the interactive map, use tools such as measuring distance and area, turn layers on and off, and understand biodiversity indicators.\n\nCNHP\nStoryMap Collection"
-  },
-  {
-    "objectID": "projects.html#carbon-emissions-and-energy-use-during-covid-19",
-    "href": "projects.html#carbon-emissions-and-energy-use-during-covid-19",
-    "title": "Projects",
-    "section": "Carbon Emissions and Energy Use During COVID-19",
-    "text": "Carbon Emissions and Energy Use During COVID-19\nIn this project, I analyzed changes in greenhouse gas emissions in the top five emitting countries (China, United States, India, Russia, and Japan) from 2015 to 2022.\nI used statistical methods such as ANOVA and regression, along with machine learning models like random forest. The results showed that emissions dropped during COVID-19 but rebounded afterward, and gas emissions were a strong predictor.\nProject Website"
-  },
-  {
-    "objectID": "projects.html#wolverine-habitat-suitability-analysis",
-    "href": "projects.html#wolverine-habitat-suitability-analysis",
-    "title": "Projects",
-    "section": "Wolverine Habitat Suitability Analysis",
-    "text": "Wolverine Habitat Suitability Analysis\nThis project focused on identifying suitable habitats for wolverines in Clear Creek County, Colorado using GIS analysis. I used elevation, snowpack, and distance from roads to model habitat suitability.\nThe results showed that suitable habitats are mostly located in high-elevation areas with low human disturbance.\nStoryMap"
+    "text": "Welcome to my portfolio website. I am an ecosystem scientist currently pursuing a Professional Science Master’s in Ecosystem Science and Sustainability at Colorado State University, with a focus on carbon management.\nMy background combines sustainability research, environmental data analysis, and geospatial science. I am especially interested in understanding carbon emissions, climate change, and how data can support better environmental decisions.\n\n\n\n\nI work at the intersection of ecology, data science, and sustainability. My experience includes:\n\nEnvironmental data analysis using R\n\nGeospatial analysis and mapping using ArcGIS Pro\n\nStatistical analysis and basic machine learning\n\nQualitative research and coding using MaxQDA\n\nScience communication in sustainability and climate topics\n\nWorking in both English and Arabic\n\n\n\n\n\n\nConducted research on public perceptions of bat research facilities.\nContributing researcher and co-author at KAUST on a chapter on the evolution of the UNFCCC and global carbon governance\n\nDeveloped a StoryMap user guide for Namibia’s environmental tracking platform in collaboration with CNHP and the University of Namibia,\n\nWorked on projects analyzing carbon emissions and environmental data using statistical and machine learning methods.\n\n\n\n\n\nSome of the projects included in this portfolio:\n\nNamibia StoryMap User Guide\n\nCarbon Emissions Analysis During COVID-19\n\nWolverine Habitat Suitability GIS Model\n\nYou can explore more details in the Projects section.\n\n\n\n\nI am interested in working in carbon management and sustainability, especially in roles that combine environmental science, data analysis, and policy. My goal is to contribute to solutions that reduce emissions and support sustainable systems."
   },
   {
     "objectID": "index.html#ecosystem-scientist-sustainability-carbon-management",
@@ -82,5 +47,40 @@
     "title": "Home",
     "section": "",
     "text": "I am interested in working in carbon management and sustainability, especially in roles that combine environmental science, data analysis, and policy. My goal is to contribute to solutions that reduce emissions and support sustainable systems."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page highlights some of the projects I worked on in ecology, sustainability, and environmental data science."
+  },
+  {
+    "objectID": "projects.html#namibia-storymap-user-guide",
+    "href": "projects.html#namibia-storymap-user-guide",
+    "title": "Projects",
+    "section": "Namibia StoryMap User Guide",
+    "text": "Namibia StoryMap User Guide\nFor my sustainability capstone project, I worked on a StoryMap user guide for an interactive biodiversity platform in Namibia. This project was developed in collaboration with the Colorado Natural Heritage Program (CNHP) and the University of Namibia.\nMy role focused on explaining how users can navigate the interactive map, use tools such as measuring distance and area, turn layers on and off, and understand biodiversity indicators.\n\nCNHP\nStoryMap Collection"
+  },
+  {
+    "objectID": "projects.html#carbon-emissions-and-energy-use-during-covid-19",
+    "href": "projects.html#carbon-emissions-and-energy-use-during-covid-19",
+    "title": "Projects",
+    "section": "Carbon Emissions and Energy Use During COVID-19",
+    "text": "Carbon Emissions and Energy Use During COVID-19\nIn this project, I analyzed changes in greenhouse gas emissions in the top five emitting countries (China, United States, India, Russia, and Japan) from 2015 to 2022.\nI used statistical methods such as ANOVA and regression, along with machine learning models like random forest. The results showed that emissions dropped during COVID-19 but rebounded afterward, and gas emissions were a strong predictor.\nProject Website"
+  },
+  {
+    "objectID": "projects.html#wolverine-habitat-suitability-analysis",
+    "href": "projects.html#wolverine-habitat-suitability-analysis",
+    "title": "Projects",
+    "section": "Wolverine Habitat Suitability Analysis",
+    "text": "Wolverine Habitat Suitability Analysis\nThis project focused on identifying suitable habitats for wolverines in Clear Creek County, Colorado using GIS analysis. I used elevation, snowpack, and distance from roads to model habitat suitability.\nThe results showed that suitable habitats are mostly located in high-elevation areas with low human disturbance.\nStoryMap"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "“Not in my backyard”: Online narratives of societal perceptions and skepticism towards emerging infectious disease research\n\nCo-author and contributing researcher\n\nThis research examines how the public discusses and perceives emerging infectious disease research, with a focus on online narratives, trust, and skepticism.\n\n\n\nUNFCCC and Global Carbon Governance\n\nContributing researcher and co-author at KAUST on a chapter examining the evolution of the UNFCCC and global carbon governance\n\nThis work focuses on understanding how international climate agreements have evolved and how they influence global carbon management and policy."
   }
 ]

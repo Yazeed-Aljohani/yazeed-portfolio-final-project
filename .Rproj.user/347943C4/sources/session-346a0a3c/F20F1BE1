@@ -3,7 +3,7 @@
     "path": "~/yazeed-portfolio-final-project/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "3965146927",
+    "hash": "199082295",
     "contents": "",
     "dirty": false,
     "created": 1777665490306.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "9,15",
+        "cursorPosition": "19,13",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1777763191,
+    "lastKnownWriteTime": 1777850157,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1777763191671,
+    "last_content_update": 1777850157230,
     "read_only": false,
     "read_only_alternatives": []
 }
