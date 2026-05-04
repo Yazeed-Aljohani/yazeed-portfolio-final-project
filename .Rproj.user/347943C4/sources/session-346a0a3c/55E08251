@@ -3,7 +3,7 @@
     "path": "~/yazeed-portfolio-final-project/styles.css",
     "project_path": "styles.css",
     "type": "css",
-    "hash": "2709134889",
+    "hash": "2334317612",
     "contents": "",
     "dirty": false,
     "created": 1777763096275.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "29,1",
-        "scrollLine": "3"
+        "cursorPosition": "73,1",
+        "scrollLine": "47"
     },
     "folds": "",
-    "lastKnownWriteTime": 1777924074,
+    "lastKnownWriteTime": 1777926555,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1777924074256,
+    "last_content_update": 1777926555205,
     "read_only": false,
     "read_only_alternatives": []
 }
