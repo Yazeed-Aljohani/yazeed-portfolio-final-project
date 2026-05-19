@@ -4,7 +4,7 @@ title: "Home"
 
 # Yazeed Aljohani
 
-![](images/clipboard-4137088026.jpeg){width="200"}
+![](images/IMG_7662.jpg){width="289"}
 
 ## Ecosystem Scientist \| Sustainability \| Carbon Management
 
@@ -33,7 +33,7 @@ I work at the intersection of ecology, data science, and sustainability. My expe
 
 -   Conducted research on public perceptions of bat research facilities.
 
--   Contributing researcher and co-author at KAUST on a chapter on the evolution of the UNFCCC and global carbon governance \
+-   Contributing researcher and co-author at KAUST on a chapter on the evolution of the UNFCCC and global carbon governance\
 
 -   Developed a StoryMap user guide for Namibia’s environmental tracking platform in collaboration with CNHP and the University of Namibia,\
 
